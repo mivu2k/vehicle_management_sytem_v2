@@ -1,0 +1,3 @@
+/Users/usman/Desktop/OOP/C++/vehicle_v2/cmake-build-debug/CMakeFiles/vehicle_v2.dir
+/Users/usman/Desktop/OOP/C++/vehicle_v2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/usman/Desktop/OOP/C++/vehicle_v2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

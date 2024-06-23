@@ -1,0 +1,21 @@
+# ninja log v5
+2	1183	1719047779137173473	CMakeFiles/vehicle_v2.dir/Source/Vehicle.cpp.o	f19d7c976eaeb93e
+2	1209	1719047779165305725	CMakeFiles/vehicle_v2.dir/Source/VehicleOwner.cpp.o	deabab6b74eeb6fc
+7	1142	1719047826823183908	CMakeFiles/vehicle_v2.dir/Source/Customer.cpp.o	6c03924e645d07ce
+7	1192	1719047826875611004	CMakeFiles/vehicle_v2.dir/main.cpp.o	8991c581e8c3baf8
+1192	1277	1719047826962111332	vehicle_v2	ee455b3258199542
+13	1153	1719049696829123080	CMakeFiles/vehicle_v2.dir/Source/Vehicle.cpp.o	f19d7c976eaeb93e
+13	1197	1719049696873700466	CMakeFiles/vehicle_v2.dir/Source/VehicleOwner.cpp.o	deabab6b74eeb6fc
+13	1274	1719049696950451837	CMakeFiles/vehicle_v2.dir/Source/Customer.cpp.o	6c03924e645d07ce
+12	1291	1719049696968946896	CMakeFiles/vehicle_v2.dir/main.cpp.o	8991c581e8c3baf8
+1291	1358	1719049697037708031	vehicle_v2	ee455b3258199542
+32	2214	1719166072215197587	CMakeFiles/vehicle_v2.dir/Source/Vehicle.cpp.o	f19d7c976eaeb93e
+37	2249	1719166072255091260	CMakeFiles/vehicle_v2.dir/Source/Customer.cpp.o	6c03924e645d07ce
+31	2297	1719166072304964886	CMakeFiles/vehicle_v2.dir/main.cpp.o	8991c581e8c3baf8
+6	1016	1719166114346137463	CMakeFiles/vehicle_v2.dir/Source/VehicleOwner.cpp.o	deabab6b74eeb6fc
+1016	1359	1719166114687614619	vehicle_v2	ee455b3258199542
+7	1439	1719167044287869309	CMakeFiles/vehicle_v2.dir/Source/Vehicle.cpp.o	f19d7c976eaeb93e
+7	1622	1719167044472083178	CMakeFiles/vehicle_v2.dir/Source/VehicleOwner.cpp.o	deabab6b74eeb6fc
+8	1636	1719167044485644781	CMakeFiles/vehicle_v2.dir/Source/Customer.cpp.o	6c03924e645d07ce
+7	1810	1719167044663292648	CMakeFiles/vehicle_v2.dir/main.cpp.o	8991c581e8c3baf8
+1811	1893	1719167044749644919	vehicle_v2	ee455b3258199542
